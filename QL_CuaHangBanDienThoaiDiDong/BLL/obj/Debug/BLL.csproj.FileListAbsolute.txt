@@ -1,0 +1,14 @@
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\BLL.dll
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\BLL.pdb
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\DAL.dll
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\DAL.pdb
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.dll
+E:\.NET\LinQ\QL_CuaHangBanDienThoaiDiDong\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.pdb
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\BLL.dll
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\BLL.pdb
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\DAL.dll
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\bin\Debug\DAL.pdb
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.dll
+C:\Users\Duy\Desktop\QL_CuaHangBanDienThoaiDiDong\BLL\obj\Debug\BLL.pdb
